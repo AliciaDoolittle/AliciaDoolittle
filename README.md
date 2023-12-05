@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 💼 Currently focusing on data analysis, SQL, R, HTML, CSS, C#, C++, and Python.
+- 💼 Currently focusing on data analysis, HTML, CSS, C#, C++, Javascript,and Python.
 - 📚 Constantly learning and exploring new technologies to enhance my skills.
 - 🎓 Interested in collaborative projects to improve and apply my knowledge.
 - 🏆 Certified in AI Ethics through Kaggle.
