@@ -1,6 +1,6 @@
 - # Welcome to Alicia Doolittle's Data Analysis Portfolio
 
-👋 Hi there! I'm Alicia Doolittle, and I'm passionate about data analysis, research, technology, machine learning, programming, game development, psychology, and healthcare.
+👋 Hi there! I'm Alicia Doolittle, and I'm passionate about data analysis, research, technology, machine learning, programming, game and web development, psychology, and healthcare.
 
 ## About Me
 
@@ -8,14 +8,15 @@
 - 📚 Constantly learning and exploring new technologies to enhance my skills.
 - 🎓 Interested in collaborative projects to improve and apply my knowledge.
 - 🏆 Certified in AI Ethics through Kaggle.
-- 📜 Working on a certification for data analysis through Google.
+- 📜 Working on a certification for data analysis through Google and Python certification through Kaggle. 
 
 ## Skills
 
 - 📊 Data Analysis
 - 🤖 Machine Learning
-- 💻 Programming (Python, C#, C++)
+- 💻 Programming
 - 🎮 Game Development
+- 🌐 Web Development 
 - 🧠 Psychology
 - 🏥 Healthcare
 
